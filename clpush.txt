@@ -1,5 +1,10 @@
 This is file to demo cloning pushing assignment.
 Appended.
 
+<<<<<<< HEAD
 First commit after changing.
 Second change to commit.
+Third change to commit.
+=======
+First commit after changing.
+>>>>>>> parent of 902e172 (Second commit)
